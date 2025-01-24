@@ -1,0 +1,26 @@
+button {
+    width: 100%
+}
+.red {
+    background-color: red;
+    color: azure;
+    border: none;
+}
+.blue {
+    background-color: rgb(0, 0, 255);
+    color:azure;
+    border: none;
+}
+.oren {
+    background-color: orange;
+    border: none;
+}
+.ijo {
+    background-color: green;
+    border: none;
+}
+.hitam {
+    background-color: black;
+    color: azure;
+    border: none;
+}
