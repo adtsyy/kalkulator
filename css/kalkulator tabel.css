@@ -103,3 +103,5 @@ button.misc {
 button.misc:hover {
     background: #7f8c8d;
 }
+
+@media only screen and (max-width: 480px) {}
